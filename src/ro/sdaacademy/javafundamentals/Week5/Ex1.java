@@ -34,6 +34,7 @@ public class Ex1 {
         }
     }
 
+
     private static void Ex1() {
         int i;
         for(i=0; i<=1000; i=i+5) {
