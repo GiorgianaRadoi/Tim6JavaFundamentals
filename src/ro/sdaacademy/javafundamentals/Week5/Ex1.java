@@ -1,5 +1,6 @@
 package ro.sdaacademy.javafundamentals.Week5;
 
+import java.lang.reflect.Array;
 import java.util.Scanner;
 
 public class Ex1 {
